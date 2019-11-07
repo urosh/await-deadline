@@ -1,0 +1,25 @@
+{
+  "name": "await-deadline",
+  "version": "1.0.0",
+  "description": "Helper tool that makes sure we get a response from the promise within the defined timeframe",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "timeout",
+    "promise",
+    "resolving",
+    "hanging"
+  ],
+  "homepage": "https://github.com/urosh/await-deadline",
+  "author": "Uros Damnjanovic",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^6.2.2"
+  }
+}
