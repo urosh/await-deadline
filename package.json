@@ -1,6 +1,6 @@
 {
   "name": "await-deadline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper tool that makes sure we get a response from the promise within the defined timeframe",
   "main": "src/index.js",
   "scripts": {
