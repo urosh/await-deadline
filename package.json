@@ -4,7 +4,7 @@
   "description": "Helper tool that makes sure we get a response from the promise within the defined timeframe",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --timeout 15000 test/index.spec.js"
   },
   "keywords": [
     "async",
