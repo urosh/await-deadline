@@ -12,7 +12,10 @@
     "timeout",
     "promise",
     "resolving",
-    "hanging"
+    "hanging",
+    "deadline",
+    "resolve",
+    "reject"
   ],
   "homepage": "https://github.com/urosh/await-deadline",
   "author": "Uros Damnjanovic",
